@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mbc Bollywood" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="TV Channels",Mbc Bollywood
+http://nomorecable.xyz:80/live/hahaiptv-/079652/43853
+#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="TV Channels",Zee Aflam
+http://xpro.xviptv.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/15850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="TV Channels",Zee Alwan
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/15849.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U Aflam" tvg-logo="https://github.com/ahmadalkhatib1/iptv/raw/main/img/TV-Channels/b4u-aflam.png" group-title="TV Channels",B4U Aflam
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/1413
+#EXTINF:-1 tvg-id="" tvg-name="OXN INDIA" tvg-logo="" group-title="TV Channels",OXN INDIA
+http://airmaxtv2020.online:2082/aammzzairMAXtv/IJJKMHMJeB/611?token=TxcMUBddEQtDDVYFUFULVFMCAlQBBAZTBwIGV1FRAgMBBQJQAVYFBgcWHkFAQEBQUFloDFMUCgQDARxBQRBURGtcABNeFwIDQxgQF1pZVxcLBQFRBwAFAAUHBk8WE1hSFg8KRAhZHxMETEYGQVpTWW5QUhNeVVUQCF5FD1hPE1laagBUCVRdVUMOEFIRGBBcQkQVX1lDXF4eElIKQBFQQlEXXl8RWV8dQ1ddFl1AQEwTDhUhchQcEFdIRAZaEFhZWhdeExBGER1DXUE8QVFBQUNRVghSRBIIEAASTxYOUE5rVgtfClBQRQhbXBARDhAHAQQVSRVbX1xbRF8RaxNYUhYPCkQIWU4=
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Bollywood" tvg-logo="https://github.com/ahmadalkhatib1/iptv/raw/main/img/TV-Channels/Shahid_Bollywood.png" group-title="TV Channels",Shahid Bollywood
+http://airmaxtv2020.online:2082/ssaaeeddairMAXtv/HCGgWiK1jU/585?token=TxcMUBddEQtDBwBUBVALAlMBAVMHDggAAAIJVVBQVQJRDFYDB1QGCFcWHkFAQEBQUFloDFMUCgcKBRxBQRBURGtcABNeFwsTTRZGCl5REA8AAgNVAQMCAwcAHEFEClUUDlsRXQgZEVQZQFcRXVVealVRQQxUUxIIXEVcDxhBXlhrUQFcBVtXE1sWA0EfFltGQRYNC0JaXB4QUlkXRgJFUxYPCkQIWR8TAltHDUdGSxcLFnMgFRoSV0pEVQ1HCl5YFg9GRRcXHxMIR20RVkdGR1RVWgBFFAoQAhIcQVkCSWlXWgpfAVZHWA5aQUEJFgAFARYbR1pZXltGX0I8RApVFA5bEV0ISA==
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/130px-Netflix_2015_logo.svg.png" group-title="TV Channels",Netflix Bollywood UHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/78420
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Minnal Murali (2021)" tvg-logo="https://github.com/ahmadalkhatib1/iptv/raw/main/img/Movies/Minnal_Murali_2021.jpg" group-title="Movies",Minnal Murali (2021)
+https://upbam.org/1fyvhr65fjp2/Minnal.Murali.2021.720p.NF.WEB-DL.MyCima.ink.mp4.html?Key=t6b3_w0kg-Iv5OlKbWBE_g&Expires=1640893888
+#EXTINF:-1 tvg-id="" tvg-name="Maanaadu (2021)" tvg-logo="https://github.com/ahmadalkhatib1/iptv/raw/main/img/Movies/Maanaadu_2021.jpg" group-title="Movies",Maanaadu (2021)
+https://upbam.org/gzew4rst09gj/Maanaadu_2021.1080p.WEB-DL.MyCima.ink.mp4.html?Key=rj3K5gZJehn_kCG9Ul-0Rg&Expires=1640894325
+#EXTINF:-1 tvg-id="" tvg-name="Switchh (2021)" tvg-logo="https://github.com/ahmadalkhatib1/iptv/raw/main/img/Movies/Switchh_2021.jpg" group-title="Movies",Switchh (2021)
+https://upbam.org/yiyqv1235knr/Switchh_2021.1080p.WEB-DL.MyCima.ink.mp4.html?Key=zkD6qUFbMMFC-a3ujqoYOg&Expires=1640893049
+#EXTINF:-1 tvg-id="" tvg-name="Bodyguard (2011)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/dc/Bodyguard_Salman.jpg" group-title="Movies",Bodyguard (2011)
+https://upbam.org/1qrp9aqnzqx8/Bodyguard.2011.1080p.BluRay.MyCima.actor.mp4.html?Key=O-b0gf04p8Zd7cxGG9ma-w&Expires=1640895804
+#EXTINF:-1 tvg-id="" tvg-name="Madhagaja (2021)" tvg-logo="https://akwam.link/uploads/yi3EM.jpg" group-title="Movies",Madhagaja (2021)
+https://upbam.org/mxdzc25bav78/Madhagaja.2021.1080p.WEB-DL.MyCima.ink.mp4.html?Key=MvMY_yOV4i6zMhIipk1NBA&Expires=1640894745
+#EXTINF:-1 tvg-id="" tvg-name="Dangal (2016)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/ce/Dangal_%28film%29.jpg" group-title="Movies",Dangal (2016)
+https://upbam.org/so2zbxni25pj/Dangal.2016.1080p.BluRay.x264.MyCima.Tv.mp4.html?Key=pQ6N8f99pwk0pnLBteMPdA&Expires=1640894069
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Parampara (2021) - S01E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MjVlMTMtYzU0OC00MmE5LTg2NTYtMzMwY2RjMmI1ZmMxXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="TV Shows",Parampara (2021) - S01E01
+https://upbam.org/2o0g9s1texz2/Parampara.S01E01.2021.720p.WEBRip.MyCima.ink.mp4.html?Key=iqCbpfFWGgGf1Y6RqkildQ&Expires=1640893761
+#EXTINF:-1 tvg-id="" tvg-name="Parampara (2021) - S01E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MjVlMTMtYzU0OC00MmE5LTg2NTYtMzMwY2RjMmI1ZmMxXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="TV Shows",Parampara (2021) - S01E02
+https://upbam.org/hossrn1c9rod/Parampara.S01.E02.2021.720p.WEBRip.MyCima.world.mp4.html?Key=Rrp4dmFI1GascRs3iaA5MQ&Expires=1640894000
+#EXTINF:-1 tvg-id="" tvg-name="Parampara (2021) - S01E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MjVlMTMtYzU0OC00MmE5LTg2NTYtMzMwY2RjMmI1ZmMxXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="TV Shows",Parampara (2021) - S01E03
+https://upbam.org/8mobk9o2dsc0/Parampara.S01.E03.720p.WEBRip.MyCima.world.mp4.html?Key=1iG7DB79ZPS2by6luNG-Gg&Expires=1640894036
+#EXTINF:-1 tvg-id="" tvg-name="Parampara (2021) - S01E04" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MjVlMTMtYzU0OC00MmE5LTg2NTYtMzMwY2RjMmI1ZmMxXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="TV Shows",Parampara (2021) - S01E04
+https://upbam.org/2ijr3o3gk57g/Parampara.S01.E04.720p.WEBRip.MyCima.world.mp4.html?Key=c3tN0kE6Tkv3ahca6QypUA&Expires=1640892269
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E01" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E01
+https://upbam.org/011nkzalt8ht/FIDYA.s01E01.MyCima.mp4.html?Key=GIFCVBxdk335JcnjI2LlvQ&Expires=1640896095
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E02" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E02
+https://upbam.org/cpvysjo9fdb4/FIDYA.s01E02.MyCima.mp4.html?Key=7JNq44c7Auc3gO2OFvrh8A&Expires=1640896385
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E03" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E03
+https://upbam.org/i8ml1ogpj69c/FIDYA.s01E03.MyCima.mp4.html?Key=bHk-f40cReq0s81upISJ7A&Expires=1640896405
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E04" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E04
+https://upbam.org/taq3xvxijug5/FIDYA.s01E04.MyCima.mp4.html?Key=EaZgB7gYUCiSFORq4d6TKw&Expires=1640896490
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E05" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E05
+https://upbam.org/rl3mbag53kmb/FIDYA.s01E05.MyCima.mp4.html?Key=agm5N1qwjKibQVG6o6gx3g&Expires=1640897559
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E06" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E06
+https://upbam.org/pwmn3y3cinrd/FIDYA.s01E06.MyCima.mp4.html?Key=evlUESfIDw8UQnSGy_CcHw&Expires=1640897587
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E07" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E07
+https://upbam.org/ycjt0vb1sg50/FIDYA.s01E07.MyCima.mp4.html?Key=7oiQkQGjf-Hv7V2l6IxYEA&Expires=1640897620
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E08" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E08
+https://upbam.org/kx6d8fbo6mfw/FIDYA.s01E08.MyCima.mp4.html?Key=R2VbTHFT0cKfGwidc2RkXQ&Expires=1640897644
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E09" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E09
+https://upbam.org/h6v2bn72tztw/FIDYA.s01E09.MyCima.mp4.html?Key=1n5MlSMaRj8Cg70arxNHWg&Expires=1640897680
+#EXTINF:-1 tvg-id="" tvg-name="Fidya - S01E10" tvg-logo="https://content.weyyak.com/dcca4bf8-ad10-e711-814f-0af7afba4acb/c733e173-464b-e911-8259-02e5c03f648e/poster-image?d=200x200" group-title="TV Shows",Fidya - S01E10
+https://upbam.org/wugiph18jp7n/FIDYA.s01E10.MyCima.mp4.html?Key=mew2N3Jq7GleYx3t-FzWSQ&Expires=1640897714
+
